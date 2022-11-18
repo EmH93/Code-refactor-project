@@ -21,6 +21,8 @@ From clicking on one of the navigation options, the page will navigate the user 
 
     ![Main articles of the web page](/starter/assets/images/Website-main.PNG?raw=true)
 
+    To view site visit: https://emh93.github.io/Week-one-challenge/ 
+
 ## Credits
 
 Original html and css code and all content is credited to Horiseon Social Solution Services, Inc. 2019
