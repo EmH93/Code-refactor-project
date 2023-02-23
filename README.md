@@ -9,7 +9,7 @@ A Repository for the content of the front end development bootcamp - week one ch
 
 I amended the existing css and html code to ensure all image and icons are accessible as well as fixing a broken link on the Search Engine Optimization button in the navigation bar.  
 
-To view site visit: https://emh93.github.io/Week-one-challenge/ 
+To view site visit: https://emh93.github.io/Code-refactor-project/
 
 ## Usage
 
