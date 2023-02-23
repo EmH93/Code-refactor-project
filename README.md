@@ -7,21 +7,20 @@ A Repository for the content of the front end development bootcamp - week one ch
 
 ## Installation
 
-I amended the existing css and html code to ensure all image and icons are accessible as well as fixing a broken link on the Search Engine Optimization button in the navigation bar
+I amended the existing css and html code to ensure all image and icons are accessible as well as fixing a broken link on the Search Engine Optimization button in the navigation bar.  
+
+To view site visit: https://emh93.github.io/Week-one-challenge/ 
 
 ## Usage
 
 Once you have accessed the website, it can be navigated in the following way (screenshots for reference). By clicking on one of the three options on the top bar (Search Engine Optimization, Online Reputation Management or Social Media Marketing) - as shown below, you can navigate around the page.
-
 
 ![Website-header-navigation-bar](./starter/assets/images/Website-navigation.png)
 
 
 From clicking on one of the navigation options, the page will navigate the user to the appropriate area of the web page.
 
-![Main-articles-of-the-web-page](./starter/assets/images/Website-main.png)
-
-    To view site visit: https://emh93.github.io/Week-one-challenge/ 
+![Main articles of the web page](./starter/assets/images/Website-main.png)
 
 ## Credits
 
