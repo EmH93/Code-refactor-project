@@ -15,12 +15,11 @@ To view site visit: https://emh93.github.io/Week-one-challenge/
 
 Once you have accessed the website, it can be navigated in the following way (screenshots for reference). By clicking on one of the three options on the top bar (Search Engine Optimization, Online Reputation Management or Social Media Marketing) - as shown below, you can navigate around the page.
 
-![Website-header-navigation-bar](./starter/assets/images/Website-navigation.png)
-
+![Image showing website navigation bar](./images-readme/Website-navigation.png)
 
 From clicking on one of the navigation options, the page will navigate the user to the appropriate area of the web page.
 
-![Main articles of the web page](./starter/assets/images/Website-main.png)
+![Image showing main body of web page](./images-readme/Website-main.png)  
 
 ## Credits
 
